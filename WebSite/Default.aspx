@@ -34,7 +34,7 @@
         <table class="style1">
             <tr>
                 <td style="font-weight: 700; text-align: center; font-size: x-large; text-decoration: underline">
-                    LISTADO DE PEDIDOS PARES QUE SE HAYAN VENDIDO EN LOS MESES IMPARES HADESSSSSSS groxxx</td>
+                    LISTADO HADESSSSSSS groxxx</td>
             </tr>
             <tr>
                 <td>
